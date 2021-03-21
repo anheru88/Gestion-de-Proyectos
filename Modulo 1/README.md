@@ -31,3 +31,4 @@ Portafolio, Programa, Proyecto
     <h1 align="center"> Ejercicio 3</h1>
 </p>
 
+![Ejercicio 3](03.png)
