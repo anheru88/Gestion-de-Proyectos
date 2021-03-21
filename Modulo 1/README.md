@@ -18,3 +18,8 @@
   <li>Proyecto Operativo</li>
   <li>Proyecto Estratégico</li>
 </ol>
+
+<p>
+    <h1 align="center"> Ejercicio 2 </h1>
+</p>
+
